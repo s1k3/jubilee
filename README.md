@@ -5,17 +5,17 @@ Naive Bayes Algorithm with nltk
     <li>https://github.com/matplotlib/matplotlib</li>
     <li>https://www.nltk.org/install.html</li>
 </ol>
-<p>Commands</p>
+<p>Commands</p> 
 <ol>
-    <li>conda install nltk</li>
-    <li>conda install matplotlib</li>
-    <li>pip install autocorrect</li>
+    <li><b>conda install nltk</b></li>
+    <li><b>conda install matplotlib</b></li>
+    <li><b>pip install autocorrect</b></li>
 </ol>
 After That nltk needs some extra data. So you need to also download that
-type **python** on the command line and the write **import nltk**
+type <b>python</b> on the command line and the write <b>import nltk</b>
 after that type the following commands
 <ol>
-    <li>nltk.download('punkt');</li>
-    <li>nltk.download('averaged_perceptron_tagger');</li>
-    <li>nltk.download('wordnet');</li>
+    <li><b>nltk.download('punkt')</b></li>
+    <li><b>nltk.download('averaged_perceptron_tagger')</b></li>
+    <li><b>nltk.download('wordnet')</b></li>
 </ol>
