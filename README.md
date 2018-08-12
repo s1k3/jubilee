@@ -1,11 +1,11 @@
 Naive Bayes Algorithm with nltk
-<p>Dependencies</p>
+<h3>Dependencies</h3>
 <ol>
     <li>https://github.com/phatpiglet/autocorrect</li>
     <li>https://github.com/matplotlib/matplotlib</li>
     <li>https://www.nltk.org/install.html</li>
 </ol>
-<p>Commands</p> 
+<h3>Commands</h3> 
 <ol>
     <li><b>conda install nltk</b></li>
     <li><b>conda install matplotlib</b></li>
